@@ -1,288 +1,174 @@
 [[zimg]]
 arch = "aarch64"
-git-tree-sha1 = "94b5bbd684804dbc7171c3a85b4369fc7cb3b25b"
+git-tree-sha1 = "b385be31631699d076d3876fb6c3e20bcd3d0e5e"
 os = "macos"
 
     [[zimg.download]]
-    sha256 = "8f840efe0a29e7c8ec6010947d3935c2fe901dcad88ba1cd1488478ba9f4ffe8"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.aarch64-apple-darwin.tar.gz"
-[[zimg]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a671a9ab68680148fdce985599af2fc8b3388eff"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "cb34c7bbe6924841ae91677e4f0bd1fc6f3f3bd75ee5fecfea295579b8dc5f7e"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "71e5492225d357b1153b69570001be38ab10c2481ee5d5bae17f35f6859769b7"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.aarch64-apple-darwin.tar.gz"
 [[zimg]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1beaeddf42a2ba8d64b7fcac1323cec97139b011"
+git-tree-sha1 = "80a5370f5b8b3260377eb2fa449cfafe138f67fc"
 libc = "glibc"
 os = "linux"
 
     [[zimg.download]]
-    sha256 = "9f6e4ce757bba0dcb07f8c94c7e7eca0386053be1b7c61a37732d60755adef6a"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.aarch64-linux-gnu-cxx11.tar.gz"
-[[zimg]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7ac2749c58bfffd76d7677d80546a8ee08cab8d7"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "1c65eb0a34f43ae24508e6af0b78afcb9e4eda28da4c5d8ba137c333c35a7b0b"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "4d113bf812065324d90bbfb27602d3fa474ff81c7e4738cb674c7cdedd656a96"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.aarch64-linux-gnu-cxx11.tar.gz"
 [[zimg]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba452c2e5f2d95b3e9c617a7d789e0e69f2d4e34"
+git-tree-sha1 = "0e15835fe0cfba6845e37928f37aa399d066d8fd"
 libc = "musl"
 os = "linux"
 
     [[zimg.download]]
-    sha256 = "91a5502b36900f7336f021f7c25481929938b9a62160921e51c43bbf7b2ee280"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "1fc316906cca004cd821c990b2f3f35093165ced1b7e75101256984b9d17d76e"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.aarch64-linux-musl-cxx11.tar.gz"
 [[zimg]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "886636430e7cfa149aea2a10d00b9148ff8394ed"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "63358147b455ab9043ce7fda53f8b7cf904f85148ba8cff26900c1375354efe2"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[zimg]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "10f8d794e7764b6ac0066beb863419cc84765c03"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "9fc02eaa631193cff6fbb674297f8b5b8fd22c128152fd993bf080362b4a71d6"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[zimg]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b3d1e6d736fa4575ce67f1e9479e4454bad6632"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "63627c02cea23e057e12a5d542eaa1add2a0167e51d3db763ed1f425f9bbcc1e"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[zimg]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bcacc629ec5199ac97c6fa6cda7e93bf67f6d488"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "c93f3a1020d107103aacc54287a42c992c4b27c16a421e87b23c0077a7580a67"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[zimg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "63d78985e806e21148244854427c97e3781cffdf"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "f20ecec651b99b22df9018289bc61e2a46fb719db0916d577ad5aacec5d08cd9"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[zimg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d95e2df50aa5bb5d2a736d0895ed05b57110d49b"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "a8e1302585a5ed17138d704f14c678bcd40b766f662fb9bbf6cad9499c4ec62a"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[zimg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "93f67c90556c84356ca3ac6e2578024a960a2c40"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "f4267860ca60a8e782dfbb95dd18bf8bec875552c35b1249b5c954edb93282e9"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[zimg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6daf7a745491aeed59815f36d4d6ea4de003e575"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "99078a720f0bb0694bcd7ddfd659faab820568925ef32929cfd4325cfa757d97"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fe158ad0e0648093d34653acb020c1dfb5d01cd4"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "b5175e8d1649e9104f4936083ecaefae8e8a4b2c0f62c1f22cb8933423c45000"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-linux-gnu-cxx03.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebce20d5e6a4c25602ea498b6054e8463dfe469f"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "1cfb706fe6046f70d3a13dcbda7725bf24f719b52d01eef69fdb909ed989179c"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-linux-gnu-cxx11.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c3dc3e6178dd65a5c5733fe39f4adde4ae18029b"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "9900ea0a3f904f45a1eb81a3dc90bac898f256610b7fed2e6742aad59657160f"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-linux-musl-cxx03.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "29dbfd469c198aecad5ac127dc578fc83df0992e"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "1946379a34ea1f33d732665e2ddd7398a6bbdbd18f0da975af7d03a3f93c7611"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-linux-musl-cxx11.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "713df0222223a4e83ab7345fd0b924d54a1fb702"
-os = "windows"
-
-    [[zimg.download]]
-    sha256 = "7c5589a335a41625b46095e9374452c728acfaa5daff5226d3464feeaf2279bb"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-w64-mingw32-cxx03.tar.gz"
-[[zimg]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0310c952ae1d77cc9842fdb74b3f8b160a3cdee6"
-os = "windows"
-
-    [[zimg.download]]
-    sha256 = "090fbfc70a8b892f9c567b47a22d1cace001bc7a20812022351d6bd355fd15e3"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.i686-w64-mingw32-cxx11.tar.gz"
-[[zimg]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e00f400590dd06ae0b0cda881fee3ddddc09f245"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "ace441137c675b355a7bbb4ba8158934bc3858b2700b1692fe11aefb021de1de"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[zimg]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "063a7334848ea8084eaa05429c68a9d13ce4cb49"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "4e6acbb92e6250361c95ec4cc155d8232e60cbab6c6025d8f56a03d6a9350bde"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[zimg]]
-arch = "x86_64"
-git-tree-sha1 = "d74a8db7f81b981d62a653e4cbd1882f41e3fe17"
-os = "macos"
-
-    [[zimg.download]]
-    sha256 = "dd4db0f553f96f5fac9fb2fe23abcd33b97730997bbb0bec98316cae6936737d"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-apple-darwin.tar.gz"
-[[zimg]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e9375b75478d9b2c6e4a21527a98a7b3e22f0843"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "b16df7e3532ac31aceef7540a00047faca5ffe815c8394e1ba0fd8913cfbd874"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-linux-gnu-cxx03.tar.gz"
-[[zimg]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8e93772db8d544095b630deea5bd8ac2f1fff82e"
-libc = "glibc"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "fdf92cfb92b3179723d95cc2de89ca10d8b5d2a2f0f314039ae977bea6e6a864"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-linux-gnu-cxx11.tar.gz"
-[[zimg]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e73683c08de557b55f6affddab4ffc0af2607536"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "cec26be3464d818f4b38867f187917910362d2c4e8dfcfd8ad12d359fcd9b442"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-linux-musl-cxx03.tar.gz"
-[[zimg]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7f25900740c70cd3aee11b8ed14ad2b37e46aee"
-libc = "musl"
-os = "linux"
-
-    [[zimg.download]]
-    sha256 = "0d0725eb124ed785bfc44849539febec073a270992ec377c98caa3fee6f6f804"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-linux-musl-cxx11.tar.gz"
-[[zimg]]
-arch = "x86_64"
-git-tree-sha1 = "dfcb4958d97b368d79af0cd93f16e01b55a4e838"
+arch = "aarch64"
+git-tree-sha1 = "f25af6b6681f800437be4c963855e52e6ef23200"
 os = "freebsd"
 
     [[zimg.download]]
-    sha256 = "5aefff61b5ee919136139f8cb206dadcff41619e9079e36380fb9fee9d272073"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "78f5e42e14bfa070ff87c5c00acff407eb0751ec4087398a4ca38db20f3076f8"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.aarch64-unknown-freebsd.tar.gz"
 [[zimg]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "71610c29a383e5c12e1a1d4b8a51d9a4eaa8bf70"
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eccf3852b45d562b87715e6521cd6cd6eaa4bbbc"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "e7499d50a20e2bbc7918e40cef56285ca2365ae7dbe0b9f75dc06677c26bae09"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[zimg]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38af828ed24fba26860112bdd5f5fb7bc9520ec4"
+libc = "musl"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "5e5813fe129321ce9ecc638e98f3f254c3195a4090a7ba446e2af62fc4337dc5"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[zimg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "611b8f88f8ea14635aaf69f820b2603d7a1482e3"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "d243d4b037acdd5fba5ebdb0f384ddd38ffa63cce74bf7e3b30b1b3a7a115efa"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[zimg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5106158e1d7923625433eb807b29958f63bd930a"
+libc = "musl"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "e8b2180cc3a3ac1700f02bb7ffc309cf58ec67b66dcba1a8db7337e9e7900628"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[zimg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67b129b66d4255e9943e36024bdc8c4e8398fb45"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "7f319dc9606441a8686ddfda93693a2f28cac1cda5f06e5cec06bff280a53b51"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.i686-linux-gnu-cxx11.tar.gz"
+[[zimg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a78c43ec7cf1ad784733e668e794b14305c99693"
+libc = "musl"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "6fbe6166eba57fe37facd913242bcbf0c58b25564da80be107fe9ebeb1268978"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.i686-linux-musl-cxx11.tar.gz"
+[[zimg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f50bac7687a891e15a5b4a2a5e3fb7ca7f2aba3"
 os = "windows"
 
     [[zimg.download]]
-    sha256 = "55c8464f70e7f9a01cdf6a9807bd38b70f8d3e377d3a55daf9177f08b89e51e0"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "619f8db8e095d9b611dd59242fd9a8ed78b023be9d3b73cc5c4bbc7050d82940"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.i686-w64-mingw32-cxx11.tar.gz"
+[[zimg]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "884f26f26295dd4bb926d3d3ae9c98c25da38359"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "59aa1df1f5a0466f8851b32b97c13ebda85ec12219322071793752930f43d1b3"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[zimg]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "760d58896b2eaa937b8d3221285ed25f8a222c6e"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "cf8bc30b1474fe4515cf55cbf9f2dcab3dc812b0674bbb4f8073dcbe6fe14e2c"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.riscv64-linux-gnu-cxx11.tar.gz"
+[[zimg]]
+arch = "x86_64"
+git-tree-sha1 = "e7ee1154295b3b0b6b6f52d9e5c4a55e91c61750"
+os = "macos"
+
+    [[zimg.download]]
+    sha256 = "5175853a6dd18d7ef15b6daa6b370d1fc2bee7ea4b1a2e5b80722b6d56dc4b10"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.x86_64-apple-darwin.tar.gz"
 [[zimg]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70b16e47447057caa514dc5d78ee9945d1ff73bb"
+git-tree-sha1 = "443cbde56824011d5a3f46a0587be4a230822b9f"
+libc = "glibc"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "cb7c85d35756d0a1f6400d118ec334f79668413467c0856573dc9fb270d6c0c0"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[zimg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35d86943c50dc6f85e943cfd67781a264cfea01c"
+libc = "musl"
+os = "linux"
+
+    [[zimg.download]]
+    sha256 = "278c8575433beef9e5b29041470a86b4303a9812677c76a8cc46caf2fbe02644"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.x86_64-linux-musl-cxx11.tar.gz"
+[[zimg]]
+arch = "x86_64"
+git-tree-sha1 = "c26db3a11c07279d32718434328434389ba85834"
+os = "freebsd"
+
+    [[zimg.download]]
+    sha256 = "2c9868d8868d978596b879bdd4f33b23b4ac86869b7041c792ff060404464932"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.x86_64-unknown-freebsd.tar.gz"
+[[zimg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2dab11ccede12d5d33cfa2030183b54f00ddf5d5"
 os = "windows"
 
     [[zimg.download]]
-    sha256 = "af264d4fbb75192e9a24ac0c93695283414122a9a815e95ee56c171a3702a5a0"
-    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.5+0/zimg.v3.0.5.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "08d79302c3bb9b9aa00e9937c6bb6582a8071f3780ebbd220683ea9addb596fb"
+    url = "https://github.com/JuliaBinaryWrappers/zimg_jll.jl/releases/download/zimg-v3.0.6+0/zimg.v3.0.6.x86_64-w64-mingw32-cxx11.tar.gz"
